@@ -1,0 +1,16 @@
+package com.character;
+
+import com.weapon.AxeBehavior;
+
+public class King extends Character {
+
+	public King(){
+		weapon = new AxeBehavior();
+	}
+	
+	@Override
+	public void fight() {
+
+	}
+
+}

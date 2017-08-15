@@ -1,0 +1,5 @@
+package com.Quackable;
+
+public interface QuackBehavior {
+
+}

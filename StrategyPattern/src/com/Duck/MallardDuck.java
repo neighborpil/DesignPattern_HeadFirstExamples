@@ -1,0 +1,17 @@
+package com.Duck;
+
+import com.Flyable.*;
+import com.Quackable.*;
+
+public class MallardDuck extends Duck {
+
+	public MallardDuck(){
+		flyBehavior = new FlyWithWings();
+		quackBehavior = new Quack();
+	}
+
+	public void display() {
+		System.out.println("저는 물오리입니다");
+	}
+
+}

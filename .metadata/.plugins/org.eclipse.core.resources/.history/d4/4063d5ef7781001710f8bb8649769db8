@@ -1,0 +1,25 @@
+package com;
+
+import com.Flyable.*;
+
+public class StrategyPattern {
+
+	public static void main(String[] args) {
+		Duck mallard = new MallardDuck();
+		mallard.performQuack();
+		mallard.performFly();
+		
+		Duck model = new ModelDuck();
+		model.performFly();
+		model.setFlyBehavior(new FlyBehavior() {
+			
+			@Override
+			public void fly() {
+				// TODO Auto-generated method stub
+				
+			}
+		};FlyRocketPowered());
+
+	}
+
+}
