@@ -1,7 +1,0 @@
-package com.weapon;
-
-public class KnifeBehavoir implements WeaponBehavior {
-	public void useWeapon(){
-		System.out.println("³ªÀÌÇÁ");
-	}
-}

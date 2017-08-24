@@ -12,4 +12,14 @@
 <fullyQualifiedTypeName name="com.weapon.BowAndArrowBehavior"/>
 <fullyQualifiedTypeName name="com.weapon.KnifeBehavoir"/>
 <fullyQualifiedTypeName name="com.character.Character"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.observe.Observer"/>
+<fullyQualifiedTypeName name="com.subject.Subject"/>
+<fullyQualifiedTypeName name="com.display.CurrentConditionDisplay"/>
+<fullyQualifiedTypeName name="com.display.StatisticsDisplay"/>
+<fullyQualifiedTypeName name="com.display.ForecastDisplay"/>
+<fullyQualifiedTypeName name="com.subject.WeatherData"/>
+<fullyQualifiedTypeName name="com.display.HeatIndexDisplay"/>
+<fullyQualifiedTypeName name="com.decoration.Beverage"/>
+<fullyQualifiedTypeName name="com.condimentDecorator.Mocha"/>
 </qualifiedTypeNameHistroy>

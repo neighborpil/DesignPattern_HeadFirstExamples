@@ -1,5 +1,0 @@
-package com.Flyable;
-
-public interface FlyBehavior {
-
-}

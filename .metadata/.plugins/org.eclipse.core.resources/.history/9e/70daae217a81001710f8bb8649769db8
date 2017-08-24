@@ -1,5 +1,0 @@
-package com.weapon;
-
-public class KnifeBehavoir implements WeaponBehavior {
-
-}

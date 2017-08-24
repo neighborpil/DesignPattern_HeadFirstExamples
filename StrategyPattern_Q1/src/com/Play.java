@@ -16,5 +16,4 @@ public class Play {
 		Character troll = new Troll();
 		troll.fight();
 	}
-
 }

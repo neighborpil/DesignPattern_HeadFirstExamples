@@ -2,6 +2,11 @@
 <typeInfoHistroy>
 <typeInfo handle="=StrategyPattern/src&lt;com.Quackable{QuackBehavior.java[QuackBehavior" modifiers="513" timestamp="1502772356069"/>
 <typeInfo handle="=StrategyPattern/src&lt;com.Flyable{FlyBehavior.java[FlyBehavior" modifiers="513" timestamp="1502772499844"/>
-<typeInfo handle="=StrategyPattern_Q1/src&lt;com.weapon{WeaponBehavior.java[WeaponBehavior" modifiers="513" timestamp="1502774613122"/>
-<typeInfo handle="=StrategyPattern_Q1/src&lt;com.character{Character.java[Character" modifiers="1025" timestamp="1502774477224"/>
+<typeInfo handle="=StrategyPattern_Q1/src&lt;com.weapon{WeaponBehavior.java[WeaponBehavior" modifiers="513" timestamp="1502774677426"/>
+<typeInfo handle="=StrategyPattern_Q1/src&lt;com.character{Character.java[Character" modifiers="1025" timestamp="1502775200293"/>
+<typeInfo handle="=ObserverPattern/src&lt;com.subject{Subject.java[Subject" modifiers="513" timestamp="1503109061852"/>
+<typeInfo handle="=ObserverPattern/src&lt;com.display{DisplayElement.java[DisplayElement" modifiers="513" timestamp="1503109076981"/>
+<typeInfo handle="=ObserverPattern/src&lt;com.observe{Observer.java[Observer" modifiers="513" timestamp="1503109061903"/>
+<typeInfo handle="=DecorationPattern/src&lt;com.condimentDecorator{CondimentDecorator.java[CondimentDecorator" modifiers="1025" timestamp="1503588897281"/>
+<typeInfo handle="=DecorationPattern/src&lt;com.decoration{Beverage.java[Beverage" modifiers="1025" timestamp="1503588576097"/>
 </typeInfoHistroy>
