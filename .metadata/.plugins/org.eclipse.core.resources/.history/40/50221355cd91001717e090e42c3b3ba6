@@ -1,0 +1,5 @@
+package com.factory2;
+
+public class NYStyleVeggiePizza extends Pizza {
+
+}

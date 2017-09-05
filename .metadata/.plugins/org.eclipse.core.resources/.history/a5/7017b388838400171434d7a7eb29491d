@@ -1,6 +1,0 @@
-package com.Observer;
-
-public interface Subject {
-	public void registerObserver(Observer)
-	
-}

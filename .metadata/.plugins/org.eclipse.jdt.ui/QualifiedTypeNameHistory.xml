@@ -12,7 +12,6 @@
 <fullyQualifiedTypeName name="com.weapon.BowAndArrowBehavior"/>
 <fullyQualifiedTypeName name="com.weapon.KnifeBehavoir"/>
 <fullyQualifiedTypeName name="com.character.Character"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.observe.Observer"/>
 <fullyQualifiedTypeName name="com.subject.Subject"/>
 <fullyQualifiedTypeName name="com.display.CurrentConditionDisplay"/>
@@ -22,4 +21,15 @@
 <fullyQualifiedTypeName name="com.display.HeatIndexDisplay"/>
 <fullyQualifiedTypeName name="com.decoration.Beverage"/>
 <fullyQualifiedTypeName name="com.condimentDecorator.Mocha"/>
+<fullyQualifiedTypeName name="com.factory.Pizza"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="com.factory.PepperoniPizza"/>
+<fullyQualifiedTypeName name="com.factory.ClamPizza"/>
+<fullyQualifiedTypeName name="com.factory2.NYStyleCheesePizza"/>
+<fullyQualifiedTypeName name="com.factory2.NYStyleVeggiePizza"/>
+<fullyQualifiedTypeName name="com.factory2.NYStylePepperoniPizza"/>
+<fullyQualifiedTypeName name="com.factory2.ChicagoStyleCheesePizza"/>
+<fullyQualifiedTypeName name="com.factory.SimplePizzaFactory"/>
+<fullyQualifiedTypeName name="com.factory2.PizzaStore"/>
 </qualifiedTypeNameHistroy>
