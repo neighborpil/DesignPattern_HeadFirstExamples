@@ -32,4 +32,5 @@
 <fullyQualifiedTypeName name="com.factory2.ChicagoStyleCheesePizza"/>
 <fullyQualifiedTypeName name="com.factory.SimplePizzaFactory"/>
 <fullyQualifiedTypeName name="com.factory2.PizzaStore"/>
+<fullyQualifiedTypeName name="com.factory2.CalifoniaStyleCheesePiza"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,11 @@
+package com.factory2;
+
+public class CalifonidaPizzaStore extends PizzaStore {
+
+	Pizza createPizza(String type) {
+		if(item.equals("cheese")){
+			return new CalifoniaStyleCheesePizza();
+		}
+	}
+
+}

@@ -6,7 +6,6 @@ public class PizzaTestDrive {
 
 		PizzaStore nyStore = new NYPizzaStore();
 		PizzaStore chicagoStore = new ChicagoPizzaStore();
-		PizzaStore califoniaStore = new CalifoniaPizzaStore();
 		
 		Pizza pizza = nyStore.orderPizza("cheese");
 		System.out.println("Ethan ordered a " + pizza.getName() + "\n");
@@ -32,9 +31,6 @@ public class PizzaTestDrive {
  
 		pizza = chicagoStore.orderPizza("veggie");
 		System.out.println("Joel ordered a " + pizza.getName() + "\n");
-		
-		pizza = califoniaStore.orderPizza("cheese");
-		System.out.println("Jack ordered a " + pizza.getName() + "\n");
 	}
 
 }
