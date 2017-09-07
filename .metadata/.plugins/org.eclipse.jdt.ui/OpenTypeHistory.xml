@@ -13,4 +13,11 @@
 <typeInfo handle="=FactoryPattern/src&lt;com.factory{PizzaStore.java[PizzaStore" modifiers="1" timestamp="1504619895757"/>
 <typeInfo handle="=FactoryPattern/src&lt;com.factory2{PizzaStore.java[PizzaStore" modifiers="1025" timestamp="1504568925226"/>
 <typeInfo handle="=FactoryPattern/src&lt;com.factory2{Pizza.java[Pizza" modifiers="1025" timestamp="1504583173043"/>
+<typeInfo handle="=FactoryPattern/src&lt;com.factory3_Perfect{PizzaIngredientFactory.java[PizzaIngredientFactory" modifiers="513" timestamp="1504741164951"/>
+<typeInfo handle="=FactoryPattern/src&lt;com.factory3_Perfect{Dough.java[Dough" modifiers="513" timestamp="1504741297031"/>
+<typeInfo handle="=FactoryPattern/src&lt;com.factory3_Perfect{Sauce.java[Sauce" modifiers="513" timestamp="1504741313067"/>
+<typeInfo handle="=FactoryPattern/src&lt;com.factory3_Perfect{Cheese.java[Cheese" modifiers="513" timestamp="1504741351199"/>
+<typeInfo handle="=FactoryPattern/src&lt;com.factory3_Perfect{Veggies.java[Veggies" modifiers="513" timestamp="1504741398302"/>
+<typeInfo handle="=FactoryPattern/src&lt;com.factory3_Perfect{Pepperoni.java[Pepperoni" modifiers="513" timestamp="1504741421549"/>
+<typeInfo handle="=FactoryPattern/src&lt;com.factory3_Perfect{Clams.java[Clams" modifiers="513" timestamp="1504741439141"/>
 </typeInfoHistroy>

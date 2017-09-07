@@ -33,4 +33,6 @@
 <fullyQualifiedTypeName name="com.factory.SimplePizzaFactory"/>
 <fullyQualifiedTypeName name="com.factory2.PizzaStore"/>
 <fullyQualifiedTypeName name="com.factory2.CalifoniaStyleCheesePiza"/>
+<fullyQualifiedTypeName name="com.factory3_Perfect.Dough"/>
+<fullyQualifiedTypeName name="com.factory3_Perfect.Pizza"/>
 </qualifiedTypeNameHistroy>
