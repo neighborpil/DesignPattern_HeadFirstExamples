@@ -35,4 +35,25 @@
 <fullyQualifiedTypeName name="com.factory2.CalifoniaStyleCheesePiza"/>
 <fullyQualifiedTypeName name="com.factory3_Perfect.Dough"/>
 <fullyQualifiedTypeName name="com.factory3_Perfect.Pizza"/>
+<fullyQualifiedTypeName name="com.factory3_Perfect.NYPizzaIngredientFactory"/>
+<fullyQualifiedTypeName name="com.factory3_Perfect.CheesePizza"/>
+<fullyQualifiedTypeName name="com.factory3_Perfect.PepperoniPizza"/>
+<fullyQualifiedTypeName name="com.factory3_Perfect.Veggies"/>
+<fullyQualifiedTypeName name="com.factory3_Perfect.VeggiePizza"/>
+<fullyQualifiedTypeName name="com.factory3_Perfect.PizzaIngredientFactory"/>
+<fullyQualifiedTypeName name="com.factory3_Perfect.ChicagoPizzaStore"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.ThickCrustDough"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.PlumTomatoSauce"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.ReggianoCheese"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.Eggplant"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.Mushroom"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.SlicedPepperoni"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.FreshClams"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.PizzaIngredientFactory"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.CheesePizza"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.VeggiePizza"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.PepperoniPizza"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.ClamPizza"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.CaliforniaPizzaStore"/>
+<fullyQualifiedTypeName name="com.abstractFactoryPattern.CaliforniaPizzaIngredientFactory"/>
 </qualifiedTypeNameHistroy>
