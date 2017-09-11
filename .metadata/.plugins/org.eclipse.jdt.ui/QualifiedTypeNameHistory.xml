@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.Quackable.QuackBehavior"/>
-<fullyQualifiedTypeName name="com.Flyable.FlyNoWay"/>
-<fullyQualifiedTypeName name="com.MallardDuck"/>
-<fullyQualifiedTypeName name="com.Quackable.Quack"/>
-<fullyQualifiedTypeName name="com.Flyable.FlyWithWings"/>
 <fullyQualifiedTypeName name="com.StrategyPattern"/>
 <fullyQualifiedTypeName name="com.Flyable.FlyBehavior"/>
 <fullyQualifiedTypeName name="com.weapon.WeaponBehavior"/>
@@ -57,4 +52,12 @@
 <fullyQualifiedTypeName name="com.abstractFactoryPattern.CaliforniaPizzaStore"/>
 <fullyQualifiedTypeName name="com.abstractFactoryPattern.CaliforniaPizzaIngredientFactory"/>
 <fullyQualifiedTypeName name="chocolate.ChocolateBoiler"/>
+<fullyQualifiedTypeName name="com.simpleRemote.SimpleRemoteControl"/>
+<fullyQualifiedTypeName name="com.simpleRemote.Light"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.impl.copyobject.ReferenceObjectCopierImpl"/>
+<fullyQualifiedTypeName name="sun.util.calendar.LocalGregorianCalendar"/>
+<fullyQualifiedTypeName name="com.simpleRemote.LightOnCommand"/>
+<fullyQualifiedTypeName name="com.simpleRemote.GarageDoor"/>
+<fullyQualifiedTypeName name="com.simpleRemote.GarageDoorOpenCommand"/>
+<fullyQualifiedTypeName name="com.simpleRemote.GarageDoorCloseCommand"/>
 </qualifiedTypeNameHistroy>
