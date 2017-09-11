@@ -56,4 +56,5 @@
 <fullyQualifiedTypeName name="com.abstractFactoryPattern.ClamPizza"/>
 <fullyQualifiedTypeName name="com.abstractFactoryPattern.CaliforniaPizzaStore"/>
 <fullyQualifiedTypeName name="com.abstractFactoryPattern.CaliforniaPizzaIngredientFactory"/>
+<fullyQualifiedTypeName name="chocolate.ChocolateBoiler"/>
 </qualifiedTypeNameHistroy>
