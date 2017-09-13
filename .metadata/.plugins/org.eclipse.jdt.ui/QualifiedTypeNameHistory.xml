@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.Flyable.FlyBehavior"/>
-<fullyQualifiedTypeName name="com.weapon.WeaponBehavior"/>
-<fullyQualifiedTypeName name="com.weapon.AxeBehavior"/>
-<fullyQualifiedTypeName name="com.weapon.BowAndArrowBehavior"/>
-<fullyQualifiedTypeName name="com.weapon.KnifeBehavoir"/>
-<fullyQualifiedTypeName name="com.character.Character"/>
-<fullyQualifiedTypeName name="com.observe.Observer"/>
-<fullyQualifiedTypeName name="com.subject.Subject"/>
-<fullyQualifiedTypeName name="com.display.CurrentConditionDisplay"/>
-<fullyQualifiedTypeName name="com.display.StatisticsDisplay"/>
-<fullyQualifiedTypeName name="com.display.ForecastDisplay"/>
-<fullyQualifiedTypeName name="com.subject.WeatherData"/>
-<fullyQualifiedTypeName name="com.display.HeatIndexDisplay"/>
-<fullyQualifiedTypeName name="com.decoration.Beverage"/>
 <fullyQualifiedTypeName name="com.condimentDecorator.Mocha"/>
 <fullyQualifiedTypeName name="com.factory.Pizza"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
@@ -54,10 +40,24 @@
 <fullyQualifiedTypeName name="com.simpleRemote.Light"/>
 <fullyQualifiedTypeName name="com.sun.corba.se.impl.copyobject.ReferenceObjectCopierImpl"/>
 <fullyQualifiedTypeName name="sun.util.calendar.LocalGregorianCalendar"/>
-<fullyQualifiedTypeName name="com.simpleRemote.LightOnCommand"/>
 <fullyQualifiedTypeName name="com.simpleRemote.GarageDoor"/>
 <fullyQualifiedTypeName name="com.simpleRemote.GarageDoorOpenCommand"/>
 <fullyQualifiedTypeName name="com.simpleRemote.GarageDoorCloseCommand"/>
 <fullyQualifiedTypeName name="com.remote.Command"/>
 <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="com.remote.CeilingFan"/>
+<fullyQualifiedTypeName name="com.remote.RemoteControl"/>
+<fullyQualifiedTypeName name="com.remote.LightOnCommand"/>
+<fullyQualifiedTypeName name="com.remote.LightOffCommand"/>
+<fullyQualifiedTypeName name="com.simpleRemote.LightOnCommand"/>
+<fullyQualifiedTypeName name="com.remote.CeilingFanOnCommand"/>
+<fullyQualifiedTypeName name="com.remote.CeilingFanOffCommand"/>
+<fullyQualifiedTypeName name="com.remote.GarageDoor"/>
+<fullyQualifiedTypeName name="com.remote.GarageDoorUpCommand"/>
+<fullyQualifiedTypeName name="com.remote.GarageDoorDownCommand"/>
+<fullyQualifiedTypeName name="com.remote.StereoOnWithCDCommand"/>
+<fullyQualifiedTypeName name="com.remote.StereoOffCommand"/>
+<fullyQualifiedTypeName name="com.undo.Command"/>
+<fullyQualifiedTypeName name="com.undo.RemoteControlWithUndo"/>
+<fullyQualifiedTypeName name="com.undo.CeilingFanMediumCommand"/>
 </qualifiedTypeNameHistroy>

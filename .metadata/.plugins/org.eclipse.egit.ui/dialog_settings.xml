@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<item value="C:\[Codes]\Git\DesignPattern_HeadFirstExamples\.git" key="GitSelectRepositoryPage.lastRepository"/>
 	<list key="CommitDialog.authorValues">
 		<item value="neighborpil &lt;neighborpil@naver.com&gt;"/>
 	</list>
 	<list key="CommitDialog.committerValues">
 		<item value="neighborpil &lt;neighborpil@naver.com&gt;"/>
 	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
 	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
 		<item value="668" key="DIALOG_WIDTH"/>
 		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
