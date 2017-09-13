@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.StrategyPattern"/>
 <fullyQualifiedTypeName name="com.Flyable.FlyBehavior"/>
 <fullyQualifiedTypeName name="com.weapon.WeaponBehavior"/>
 <fullyQualifiedTypeName name="com.weapon.AxeBehavior"/>
@@ -18,7 +17,6 @@
 <fullyQualifiedTypeName name="com.condimentDecorator.Mocha"/>
 <fullyQualifiedTypeName name="com.factory.Pizza"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 <fullyQualifiedTypeName name="com.factory.PepperoniPizza"/>
 <fullyQualifiedTypeName name="com.factory.ClamPizza"/>
 <fullyQualifiedTypeName name="com.factory2.NYStyleCheesePizza"/>
@@ -60,4 +58,6 @@
 <fullyQualifiedTypeName name="com.simpleRemote.GarageDoor"/>
 <fullyQualifiedTypeName name="com.simpleRemote.GarageDoorOpenCommand"/>
 <fullyQualifiedTypeName name="com.simpleRemote.GarageDoorCloseCommand"/>
+<fullyQualifiedTypeName name="com.remote.Command"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 </qualifiedTypeNameHistroy>

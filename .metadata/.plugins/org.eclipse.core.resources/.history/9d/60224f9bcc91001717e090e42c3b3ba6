@@ -1,7 +1,0 @@
-package com.factory2;
-
-import com.factory.Pizza;
-
-public class NYStyleCheesePizza extends Pizza {
-
-}
